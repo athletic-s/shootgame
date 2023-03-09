@@ -6,7 +6,7 @@ let GameStart=false;
 
 //デバッグのフラグ
 
-const DEBUG = true;
+const DEBUG = false;
 
 //スムージング
 const SMOOTHING=false;
